@@ -1,4 +1,4 @@
-# Syllabus - Fall 2018 CS V15 Data Structures and Algorithms
+# Syllabus - Spring 2019 CS V40 Beginning Java
 
 [Wiki](https://github.com/vcc-csv15-fall2018/Course-Information/wiki)
 
@@ -15,17 +15,11 @@ Office Hours: TBD
 This course builds on the foundation provided by the programming fundamentals/object-oriented programming sequence to introduce the fundamental concepts of data structures and the algorithms that proceed from them. Topics include recursion, the underlying philosophy of object-oriented programming, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
 
 ### Lecture:
-
-TR 1:00 PM - 2:50 PM (SCI-226)
+MW 10:00 AM - 11:50 AM (SCI-226)
 
 ### Textbook: 
 
-Data Structure Essential, 	Roman Lysecky  and Frank Vahid. Available only at [ZyBooks](https://www.zybooks.com). Not available from the VCC Bookstore. The textbook is required.
-
-To get the book, follow these instructions:
-1. Sign in or create an account at [learn.zybooks.com](https://learn.zybooks.com)
-2. Enter zyBook code: VENTURACOLLEGECSV15KnightFall2018
-3. Subscribe
+Think Java, Allen Downey. Available from O'Reilly Books and free from Green Tea Press, [here](http://greenteapress.com/thinkjava6/thinkjava.pdf).
 
 ### Student Learning Outcomes:
 
@@ -43,16 +37,11 @@ Minimum Percentage
 
 | Grade|     | Percent |
 |-----:|:---:|--------:|
-| A+   |  ≥  |     97% |
-| A    |  ≥  |     91% |
-| A-   |  ≥  |     88% |
-| B+   |  ≥  |     85% |
-| B    |  ≥  |     81% |
-| B-   |  ≥  |     78% |
-| C+   |  ≥  |     75% |
-| C    |  ≥  |     69% |
-| D    |  ≥  |     59% |
-| F    |  <  |     59% |
+| A    |  ≥  |     88% |
+| B    |  ≥  |     78% |
+| C    |  ≥  |     68% |
+| D    |  ≥  |     58% |
+| F    |  <  |     58% |
 
 
 #### Grade Breakdown
