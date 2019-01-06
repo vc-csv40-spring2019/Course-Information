@@ -1,18 +1,18 @@
 # Syllabus - Spring 2019 CS V40 Beginning Java
 
-[Wiki](https://github.com/vcc-csv15-fall2018/Course-Information/wiki)
+[Wiki](https://github.com/vc-csv40-spring2019/Course-Information/wiki)
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 285-2070  
-Office: TBD  
-Office Hours: TBD
+Phone: (805) 289-6481 (maybe)  
+Office: #SCI-356  
+Office Hours: TR 10:00 AM - 11:50AM
 
 ### Description:  
 
-This course builds on the foundation provided by the programming fundamentals/object-oriented programming sequence to introduce the fundamental concepts of data structures and the algorithms that proceed from them. Topics include recursion, the underlying philosophy of object-oriented programming, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), the basics of algorithmic analysis, and an introduction to the principles of language translation.
+This course introduces the student to fundamental concepts of object-oriented programming with Java. Topics include data types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. It then moves on to introduce the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. The course also offers an introduction to the historical and social context of computing and an overview of computer science as a discipline.
 
 ### Lecture:
 MW 10:00 AM - 11:50 AM (SCI-226)
@@ -23,10 +23,7 @@ Think Java, Allen Downey. Available from O'Reilly Books and free from Green Tea 
 
 ### Student Learning Outcomes:
 
-1. CSLO-1: Analyze problems and select the appropriate data structure.
-2. CSLO-2: Estimate running time given an algorithm.
-3. CSLO-3: Implement and use linear data structures including sets, stacks, queues, and lists.
-4. CSLO-4: Implement and use trees including binary trees, binary search trees, and heaps.
+Coming Soon!
 
 ### Grading:
 
@@ -59,7 +56,7 @@ Your grade is based on how you do on programming assignments, participation, and
 
 #### Notes:
 
-- I use 91% rather than 92% so I can give a higher grade to those students who are close. This means that if you are at 90.99% you are not close to an "A".
+- I use 88% rather than 90% so I can give a higher grade to those students who are close. This means that if you are at 87.99% you are not close to an "A".
 
 - This class is exam, quiz, and programming assignment oriented. You must successfully complete all of the exams, quizzes and programming assignments in order to get the maximum out of this class.
 
@@ -68,7 +65,7 @@ Your grade is based on how you do on programming assignments, participation, and
 - Assignments with due dates on the Sunday following the last day of instruction cannot be turned in late.
 
 The midterm and the final exam will be given on the dates announced on the web pages.
-Quizzes have a an hour time limit and are for the express purpose of making sure that you are keeping up on your reading. Quizzes can be taken twice (with a half an hour between attempts) but are due on the time and date specified and cannot be completed late.
+Quizzes have a an hour time limit and are for the express purpose of making sure that you are keeping up on your reading. Quizzes can be taken twice (with a half an hour between attempts) but are due on the time and date specified and cannot be completed late. The lowest quiz score will be dropped before calculating the final grade for quizzes.
 
 #### Late Assignments:
 
@@ -88,13 +85,13 @@ Final
 
 #### Procedure for late assignments
 
-Each assignment has a point value, for example, 6 points. Students may turn in assignments late and have deducted one point for each 24 hour period the assignment is turned in after the due date (all times for due dates are Pacific Time). For example, the 6 point assignment turned in one second (or any measurable fraction of time) after the due date and time will have one point deducted from it. As each 24 hour period expires, another point will be deducted. As soon as the point value is zero, the assignment can no longer be turned in. That means the 6 point assignment cannot be turned in after six 24 hour periods has passed. This concept is very important when applying extra credit. 
+Each assignment has a point value of 25 points. Students may turn in assignments late and have deducted one point for each 24 hour period the assignment is turned in after the due date (all times for due dates are Pacific Time). For example, a 25 point assignment turned in one second (or any measurable fraction of time) after the due date and time will have one point deducted from it. As each 24 hour period expires, another point will be deducted. At 7 days past the due date, and 7 points are deducted, the assignment can no longer be turned in. That means the 25 point assignment cannot be turned in after 7 24 hour periods has passed, and will be given a score of 0 points. 
+
+Additionally, the lowest programming assignment score will be dropped at the end of the semester. This means if you have turned in all assignments, except one, you will still get the highest possible score for programming assignments.
 
 For the purposes of deciding when an assignment is completed, I will take the time of the commit in GitHub, not when the tests are run on the Jenkins CI server.
 
 For those assignments that are turned in late but before the final cut off, you can apply extra credit points you earn through out the term to make up for these lost points. Again, see the section on Extra Credit for further details.
-
-Please read carefully the next section, regarding Extra Credit, for further details.
 
 #### Extra Credit
 
@@ -106,7 +103,7 @@ The following descriptions detail the different types of extra credit that will 
 
 3. _Make Allan Cooler_: On Slack there is a channel specifically named "Make Allan Cooler" participation in this channel with colloquilisms and contempory song suggestions will earn students extra credit points, determined at the end of the term.
 
-3. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
+3. _VC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Canvas site which events qualify for extra credit.
 
 ### Accommodations
 
