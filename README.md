@@ -1,29 +1,43 @@
-# Syllabus - Spring 2019 CS V40 Beginning Java
+# Syllabus - Fall 2019 CS V40 Beginning Java
 
-[Wiki](https://github.com/vc-csv40-spring2019/Course-Information/wiki)
+[Wiki](https://github.com/vc-csv40/Course-Information/wiki)
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6481 (maybe)  
+Phone: (805) 289-6489   
 Office: #SCI-356  
-Office Hours: TR 10:00 AM - 11:50AM
+Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
 
 ### Description:  
 
 This course introduces the student to fundamental concepts of object-oriented programming with Java. Topics include data types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. It then moves on to introduce the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. The course also offers an introduction to the historical and social context of computing and an overview of computer science as a discipline.
 
+[Canvas Site](https://vcccd.instructure.com/courses/19383)
+
 ### Lecture:
-MW 10:00 AM - 11:50 AM (SCI-226)
+MW 3:00 PM - 4:50 PM (SCI-226)
 
 ### Textbook: 
 
-Think Java, Allen Downey. Available from O'Reilly Books and free from Green Tea Press, [here](http://greenteapress.com/thinkjava6/thinkjava.pdf).
+Big Java Late Objects, Edition: 1, Cay Hosrtmann. ISBN: 9781118087886. It's also on [Amazon](https://www.amazon.com/Big-Java-Late-Objects-Horstmann-ebook/dp/B008R0T31W/). This text book is required.
 
 ### Student Learning Outcomes:
 
-Coming Soon!
+**CSLO1** - Analyze problems and provide logical solutions to them.
+
+**CSLO2** - Outline solutions in a systematic fashion, such as flowcharting or pseudo-code.
+
+**CSLO3** - Use classes, methods, and objects to implement Java programs, including creation and coding of child classes and instances.
+
+**CSLO4** - Designate and identify sequential, selection, and iteration control structure.
+
+### Final Exam
+
+The final exam will be held in the usual class room, SCI-226, from 8:00AM to 2:45PM on Monday, December 16, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
+
+Remember, the following Wednesday, December 18, 2019, there is no class or lecture.
 
 ### Grading:
 
