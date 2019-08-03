@@ -35,7 +35,7 @@ Big Java Late Objects, Edition: 1, Cay Hosrtmann. ISBN: 9781118087886. It's also
 
 ### Final Exam
 
-The final exam will be held in the usual class room, SCI-226, from 8:00AM to 2:45PM on Monday, December 16, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
+The final exam will be held in the usual class room, SCI-226, from 2:45PM to 4:45PM on Monday, December 16, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
 
 Remember, the following Wednesday, December 18, 2019, there is no class or lecture.
 
