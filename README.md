@@ -1,23 +1,21 @@
-# Syllabus - Fall 2019 CS V40 Beginning Java
-
-[Wiki](https://github.com/vc-csv40/Course-Information/wiki)
+# Syllabus - Sprint 2020 CS V40 Beginning Java
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [aknight@vcccd.edu](mailto:aknight@vcccd.edu)  
-Phone: (805) 289-6489   
+Phone: (805) 289-6489  
 Office: #SCI-356  
-Office Hours: MW 8:00 AM - 10:00AM & TR 10:00 AM - 12:00PM
+Office Hours: MW 11:30 AM - 1:00PM & TR 9:30 AM - 12:30PM
 
 ### Description:  
 
 This course introduces the student to fundamental concepts of object-oriented programming with Java. Topics include data types, control structures, functions, arrays, files, and the mechanics of running, testing, and debugging. It then moves on to introduce the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. The course also offers an introduction to the historical and social context of computing and an overview of computer science as a discipline.
 
-[Canvas Site](https://vcccd.instructure.com/courses/19383)
+[Canvas Site](https://vcccd.instructure.com/courses/23269)
 
 ### Lecture:
-MW 3:00 PM - 4:50 PM (SCI-226)
+MW 1:00 PM - 2:50 PM (SCI-226)
 
 ### Textbook: 
 
@@ -33,15 +31,30 @@ Big Java Late Objects, Edition: 1, Cay Hosrtmann. ISBN: 9781118087886. It's also
 
 **CSLO4** - Designate and identify sequential, selection, and iteration control structure.
 
+### Mid-Term Exam
+
+The mid-term exam will be held in the usual class room, SCI-226, from 1:00PM to 2:50PM on Wednesday, March 4, 2020. 
+
 ### Final Exam
 
-The final exam will be held in the usual class room, SCI-226, from 2:45PM to 4:45PM on Monday, December 16, 2019. Bring the usual materials for the final, like for the mid-term, a writing utensil (No. 2 Pencil), 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), and that's it. There will be no need for a calculator. As a matter of fact, if you think you need a calculator, you're probably doing something wrong.
+The final exam will be held in the usual class room, SCI-226, from 12:30PM to 2:30PM on Monday, May 11, 2020. 
 
-Remember, the following Wednesday, December 18, 2019, there is no class or lecture.
+Remember, the following Wednesday, May 13, 2020, there is no class or lecture.
+
+### Examination Materials
+
+For all exams, both the mid-term and final, you will need to bring:
+
+1. A writing utensil (No. 2 Pencil) 
+1. An 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), 
+1. A Scantron 882-E form and that's it. 
+
+There will be no need for a calculator. As a matter of fact, if you think you  need a calculator, you're probably doing 
+something wrong.
 
 ### Grading:
 
-Grades for the current semester are available on Canvas. At the end of the semester, the total number of points awarded is added up and grades are given on the basis of the percentage of that total. The grade basis is:
+Grades for the current semester are available on Canvas. At the end of the semester, the total number of points awarded is added up and grades are given on the basis of the percentage of that total. Remember that Canvas may inflate your grade if you do not select 'Treat all ungraded assignments as 0'. The grade basis is:
 
 #### Grade
 Minimum Percentage
